@@ -1,6 +1,4 @@
-# Title
-
-Recipe Text Helper *(code snippet)*
+# Recipe Text Helper *(code snippet)*
 
 ## Introduction
 
