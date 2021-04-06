@@ -1,18 +1,31 @@
+# Title
+
+Recipe Text Helper *(code snippet)*
+
+## Introduction
+
+RAS project made for [Blikk](https://blikk.hu).
+
 # Description
 
-This is just a helper (code snippet) for the recipe page of blikk.hu, where we replace the recipe ingredients with images from an arbitrarily changeable list.
+This is just a **helper** (code snippet) for the recipe page of [Blikk](https://blikk.hu) , where we replace the recipe ingredients with images from an arbitrarily changeable list in our new template.
 
-## Use
+## Screenhots
 
-You can use on Blikk.hu template with jquery.
+![Recipe screenshot](./images/recipe-screenshot.jpg)
 
-## Requirements
+## Technolgies
 
-jQuery (https://jquery.com/)
++ Javascript ES6
++ JQuery 3.4.1
 
-## Installation
+## Setup
 
-This is just a code snipet. Template required.
+This is just a code snipet. Template required. You can use on Blikk.hu new template. 
+
+## The project status 
+
+Blikk new template will be available from may 2021.
 
 ## Created
 
